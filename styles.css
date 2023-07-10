@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.header{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	font-size:40px;
+	color:gray;
+}
+.book-text{
+	color:blue
+}
